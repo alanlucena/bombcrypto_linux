@@ -17,6 +17,11 @@ the bot.
 ### Smart Chain Wallet:
 #### 0x86829703635e9eba9ee3ce66bf67f7a61bdb190d
 
+<<<<<<< HEAD
+=======
+### PIX:
+#### 8fefc889-d8c5-4799-90fd-ba91bf284349
+>>>>>>> bd7a33c35963d01ecdeda8b5332b2d666010b833
 
 ## Disclaymer:
   
@@ -26,7 +31,7 @@ the bot.
 
 
 # Installation:
-### Download and install Phython from the [site](https://www.python.org/downloads/) or from the [windows store](https://www.microsoft.com/p/python-37/9nj46sx7x90p?activetab=pivot:overviewtab). 
+### Download and install Phython from the [site](https://www.python.org/downloads/)
 
 If you download from the site it is important to tick the option "add python
 to path":
@@ -121,3 +126,7 @@ If both these conditions are true, it clicks the home button.
 
 ### Wallet:
 #### 0x86829703635e9eba9ee3ce66bf67f7a61bdb190d
+<<<<<<< HEAD
+=======
+
+>>>>>>> bd7a33c35963d01ecdeda8b5332b2d666010b833
