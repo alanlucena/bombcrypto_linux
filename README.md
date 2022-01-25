@@ -2,22 +2,12 @@
 
 ### Smart Chain Wallet(BUSD/BNB/BCOIN):
 #### 0x86829703635e9eba9ee3ce66bf67f7a61bdb190d
-<<<<<<< HEAD
 
 
 ### PIX:
 ### 8fefc889-d8c5-4799-90fd-ba91bf284349
 
-
 ![pix](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/pix.jpeg)
-
-=======
-or
-
-### PIX:
-  8fefc889-d8c5-4799-90fd-ba91bf284349
-![pix](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/pix.jpeg)
->>>>>>> bd7a33c35963d01ecdeda8b5332b2d666010b833
 
 # Sobre:
 Este bot tem o seu código aberto, de forma que qualquer pessoa pode vê-lo, fazer uma fork, ou updates.
@@ -34,20 +24,12 @@ ser financiado coletivamente. Atualmente eu atualizarei a barra das metas
 manualmente de forma diária, talvez no futuro eu automatize o processo de
 alguma forma.
 
-<<<<<<< HEAD
-
 ## Aviso:
 
-#### Os desenvolvedores do jogo se pronunciaram e agora o uso de auto clickers e o uso de bots é oficialmente PROIBIDO.  Não me responsabilizo por eventuais penalidades sofridas por quem usar o bot, use por sua própria conta e risco.
+#### Os desenvolvedores do jogo se pronunciaram e agora o uso de auto clickers e o uso de bots está PERMITIDO até segunda ordem, para mais informações acompanhem o Discord oficial do BombCrypto.  Não me responsabilizo por eventuais penalidades sofridas por quem usar o bot, use por sua própria conta e risco.
 
 # Instalação:
 ### Baixe e instale o Python pelo [site](https://www.python.org/downloads/)
-=======
- 
-
-# Instalação:
-### Baixe e instale o Python pelo [site](https://www.python.org/downloads/) 
->>>>>>> bd7a33c35963d01ecdeda8b5332b2d666010b833
 
 Se você baixar pelo site é importante marcar a opção para adicionar o
 python ao PATH:
@@ -221,14 +203,11 @@ exemplo na pasta “targets” para uma tirada no seu próprio computador:
 
 ### Algumas configuraçoes podem ser mudadas no arquivo config.yaml, nao se esqueça de reiniciar o bot caso mude as configuraçoes.
 
-## Curtiu? Dê aquela fortalecida :)
+## Curtiu? Dê aquela fortalecida pra eu comprar um monster :)
 
 ### Wallet:
 #### 0x86829703635e9eba9ee3ce66bf67f7a61bdb190d
-<<<<<<< HEAD
 
 
 ### PIX:
 #### 8fefc889-d8c5-4799-90fd-ba91bf284349
-=======
->>>>>>> bd7a33c35963d01ecdeda8b5332b2d666010b833
