@@ -87,7 +87,7 @@ pip install -r requirements.txt
 ### Pronto! Agora é só iniciar o bot com o comando
 
 ```
-python3 forever.py index.py
+python forever.py index.py
 ```
 
 # Como usar?
@@ -101,7 +101,7 @@ Abra o terminal, se ainda não tiver navegado para a pasta do bot dê novamente 
 Para iniciar use o comando 
 
 ```
-python3 forever.py index.py
+python forever.py index.py
 ```
 
 Assim que ele iniciar ele vai começar mandando os bonecos trabalhar. Para que ele funcione é preciso que a janela do game esteja aparecendo na sua tela.
