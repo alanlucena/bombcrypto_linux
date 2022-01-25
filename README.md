@@ -1,16 +1,16 @@
-## Faz a boa pra nois
-## Do the good
+## BombCrypto No Jutsu!!
 
 ### Smart Chain Wallet(BUSD/BNB/BCOIN):
-#### 0xbd06182D8360FB7AC1B05e871e56c76372510dDf
-or
-https://bot.cryptip.xyz/
+#### 0x86829703635e9eba9ee3ce66bf67f7a61bdb190d
+
 
 ### PIX:
-  6ce2b79e-97be-4881-a882-81902e29d7ce
-![pix](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/pix.jpeg)
+### 8fefc889-d8c5-4799-90fd-ba91bf284349
 
-  
+
+![pix](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/pix.jpeg)
+
+
 # Sobre:
 Este bot tem o seu código aberto, de forma que qualquer pessoa pode vê-lo, fazer uma fork, ou updates.
 
@@ -26,41 +26,34 @@ ser financiado coletivamente. Atualmente eu atualizarei a barra das metas
 manualmente de forma diária, talvez no futuro eu automatize o processo de
 alguma forma.
 
- 
-
-### Paypal:
-[Donate:](https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ)
-https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ
-or
-mpcabete@protonmail.com
 
 ## Aviso:
 
 #### Os desenvolvedores do jogo se pronunciaram e agora o uso de auto clickers e o uso de bots é oficialmente PROIBIDO.  Não me responsabilizo por eventuais penalidades sofridas por quem usar o bot, use por sua própria conta e risco.
 
 # Instalação:
-### Baixe e instale o Python pelo [site](https://www.python.org/downloads/) ou pela [windows store](https://www.microsoft.com/p/python-37/9nj46sx7x90p?activetab=pivot:overviewtab).
+### Baixe e instale o Python pelo [site](https://www.python.org/downloads/)
 
 Se você baixar pelo site é importante marcar a opção para adicionar o
 python ao PATH:
-![Check Add python to PATH](https://github.com/mpcabete/bombcrypto-bot/raw/ee1b3890e67bc30e372359db9ae3feebc9c928d8/readme-images/path.png)
+![Check Add python to PATH](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/path.png)
 
 ### Realize o download do codigo no formato zip, e extraia o arquivo.
 
 ### Copie o caminho até a pasta do bot:
 
-![caminho](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/address.png)
+![caminho](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/address.png)
 
 ### Abra o terminal.
 
 Aperte a tecla do windows + r e digite "cmd":
 
-![launch terminal](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/cmd.png)
+![launch terminal](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/cmd.png)
 
 ### Navegue até a pasta do bot:
 Digite o comando "cd" + caminho que você copiou:
 
-![cd](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/cd.png)
+![cd](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/cd.png)
 
 ### Instale as dependências:
 
@@ -69,7 +62,7 @@ pip install -r requirements.txt
 ```
 
   
-![pip](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/pip.png)
+![pip](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/pip.png)
 
 ### Pronto! Agora é só iniciar o bot com o comando
 
@@ -77,7 +70,7 @@ pip install -r requirements.txt
 python3 index.py
 ```
 
-![run](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/run.png)
+![run](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/run.png)
 
 
 # Como usar?
@@ -91,7 +84,7 @@ Abra o terminal, se ainda não tiver navegado para a pasta do bot dê novamente 
 Para iniciar use o comando 
 
 ```
-python3 index.py
+python3 forever.py index.py
 ```
 
 Assim que ele iniciar ele vai começar mandando os bonecos trabalhar. Para que ele funcione é preciso que a janela do game esteja aparecendo na sua tela.
@@ -216,7 +209,8 @@ exemplo na pasta “targets” para uma tirada no seu próprio computador:
 ## Curtiu? Dê aquela fortalecida :)
 
 ### Wallet:
-#### 0xbd06182D8360FB7AC1B05e871e56c76372510dDf
-### Paypal:
-[Donate](https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ)
+#### 0x86829703635e9eba9ee3ce66bf67f7a61bdb190d
 
+
+### PIX:
+#### 8fefc889-d8c5-4799-90fd-ba91bf284349

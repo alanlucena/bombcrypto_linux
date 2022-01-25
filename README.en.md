@@ -15,11 +15,8 @@ bot, I have created some donation milestones so people can collectively fund
 the bot.
 
 ### Smart Chain Wallet:
-#### 0xbd06182D8360FB7AC1B05e871e56c76372510dDf
+#### 0x86829703635e9eba9ee3ce66bf67f7a61bdb190d
 
-### Paypal:
-[Donate:](https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ)
-https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ
 
 ## Disclaymer:
   
@@ -33,19 +30,19 @@ https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ
 
 If you download from the site it is important to tick the option "add python
 to path":
-![Check Add python to PATH](https://github.com/mpcabete/bombcrypto-bot/raw/ee1b3890e67bc30e372359db9ae3feebc9c928d8/readme-images/path.png)
+![Check Add python to PATH](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/path.png)
 
 ### Download the code as a zip file and extract it.
 
 ### Copy the path of the bot directory:
 
-![caminho](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/address.png)
+![caminho](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/address.png)
 
 ### Open the terminal.
 
 Press the windows key + R and type "cmd":
 
-![launch terminal](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/cmd.png)
+![launch terminal](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/cmd.png)
 
 ### cd into the bot directory:
 Type the command:
@@ -54,7 +51,7 @@ Type the command:
 cd <path you copied>
 ```
 
-![cd](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/cd.png)
+![cd](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/cd.png)
 
 ### Install the dependencies:
 
@@ -63,7 +60,7 @@ pip install -r requirements.txt
 ```
 
   
-![pip](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/pip.png)
+![pip](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/pip.png)
 
 ### It is finished! Now to run the bot you just need to type:
 
@@ -71,7 +68,7 @@ pip install -r requirements.txt
 python index.py
 ```
 
-![run](https://github.com/mpcabete/bombcrypto-bot/raw/main/readme-images/run.png)
+![run](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/run.png)
 
 
 # How to use?
@@ -86,7 +83,7 @@ Open the terminal, cd into the folder if you haven't yet:
 To run it use the command
 
 ```
-python index.py
+python3 forever.py index.py
 ```
 
 As soon as you start the bot it will send the heroes to work. For it to work the game window needs to be visible.
@@ -120,9 +117,7 @@ If both these conditions are true, it clicks the home button.
 
   ----------------
 
-## Pay me a coffe :)
+## Pay me a Monster Energy :)
 
 ### Wallet:
-#### 0xbd06182D8360FB7AC1B05e871e56c76372510dDf
-### Paypal:
-[Donate](https://www.paypal.com/donate?hosted_button_id=JVYSC6ZYCNQQQ)
+#### 0x86829703635e9eba9ee3ce66bf67f7a61bdb190d
