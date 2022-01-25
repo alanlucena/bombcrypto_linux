@@ -42,7 +42,7 @@ unzip bombcryto_linux.zip && cd bombcrypto_linux
 ```
 
 #### Instale todos os requisitos necessários e em seguida execute o bot
-## O arquivo forever.py é um script criado para sempre que houver algum erro no index.py ele chamar o index.py novamente, garantindo assim que o bot não irá parar de funcionar
+##### O arquivo forever.py é um script criado para sempre que houver algum erro no index.py ele chamar o index.py novamente, garantindo assim que o bot não irá parar de funcionar
 
 ```
 pip install -r requirements.txt
