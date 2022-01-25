@@ -28,14 +28,31 @@ alguma forma.
 
 #### Os desenvolvedores do jogo se pronunciaram e agora o uso de auto clickers e o uso de bots está PERMITIDO até segunda ordem, para mais informações acompanhem o Discord oficial do BombCrypto.  Não me responsabilizo por eventuais penalidades sofridas por quem usar o bot, use por sua própria conta e risco.
 
-# Instalação:
-### Baixe e instale o Python pelo [site](https://www.python.org/downloads/)
 ### Linux:
 
 ```
 apt-get update
 apt-get install python
 ```
+
+#### Em seguida basta acessar o diretório onde se encontra o bombcrypto e executar extrair todos arquivos e entrar no diretório
+
+```
+unzip bombcryto_linux.zip && cd bombcrypto_linux
+```
+
+#### Instale todos os requisitos necessários e em seguida execute o bot
+## O arquivo forever.py é um script criado para sempre que houver algum erro no index.py ele chamar o index.py novamente, garantindo assim que o bot não irá parar de funcionar
+
+```
+pip install -r requirements.txt
+python3 forever.py index.py
+```
+
+### Windows
+
+# Instalação:
+### Baixe e instale o Python pelo [site](https://www.python.org/downloads/)
 
 Se você baixar pelo site é importante marcar a opção para adicionar o
 python ao PATH:
