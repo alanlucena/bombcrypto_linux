@@ -35,7 +35,7 @@ alguma forma.
 ```
 apt-get update
 apt-get install python
-´´´
+```
 
 Se você baixar pelo site é importante marcar a opção para adicionar o
 python ao PATH:
