@@ -30,6 +30,12 @@ alguma forma.
 
 # Instalação:
 ### Baixe e instale o Python pelo [site](https://www.python.org/downloads/)
+### Linux:
+
+```
+apt-get update
+apt-get install python
+´´´
 
 Se você baixar pelo site é importante marcar a opção para adicionar o
 python ao PATH:
@@ -57,18 +63,15 @@ Digite o comando "cd" + caminho que você copiou:
 ```
 pip install -r requirements.txt
 ```
-
   
 ![pip](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/pip.png)
+
 
 ### Pronto! Agora é só iniciar o bot com o comando
 
 ```
-python3 index.py
+python3 forever.py index.py
 ```
-
-![run](https://github.com/alanlucena/bombcrypto_linux/blob/master/readme-images/run.png)
-
 
 # Como usar?
 
